@@ -17,7 +17,7 @@
 
    首先 打开视频页面
    
-   随后 打开浏览器的DevTools（这里推荐使用EDGE以及谷歌浏览器）
+   随后 打开浏览器的DevTools（按F12或右键 这里推荐使用EDGE以及谷歌浏览器）
    
    ![图片](https://github.com/user-attachments/assets/25b47c75-28cd-47c0-8a61-aa2c664db7fb)
    
@@ -49,6 +49,8 @@
 
    拦截返回内容 修改这部分内容 对播放器进行欺骗
 
+   #### 注意：如果你需要加载补丁 你需要每次打开页面的时候都打开DevTools进行一次刷新操作
+
 ## 推荐的同类项目
 
 - [ewt360](https://github.com/landuoguo/ewt360) Python实现刷e网通假期课程进度
@@ -62,3 +64,7 @@
 **禁止滥用**本仓库的内容 若进行二开请严格遵守license 严禁各类**商业行为**
 
 若发现失效等情况 请在issues提出 并欢迎PR
+
+## Sponsors
+
+暂无:(
