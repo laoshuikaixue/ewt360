@@ -37,7 +37,7 @@
    
  - ## 绕过会员检测
 
-   ![2b64597f8b1375ffc6c495c0ac6ee70](https://github.com/user-attachments/assets/f54330b2-f355-4349-9442-32ac846d1e9d)
+   ![图片](https://github.com/user-attachments/assets/da92d66a-a441-4d61-ac57-33b448fae0af)
 
    此功能用于观看视频出现此提示的绕过 你需要安装油猴脚本插件 安装方法请自行上网搜索
 
