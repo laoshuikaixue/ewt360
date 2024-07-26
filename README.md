@@ -55,7 +55,7 @@
 
 - [刷课+自动完成选择题的工具箱](https://greasyfork.org/zh-CN/scripts/471375-ewt-ewt-e%E7%BD%91%E9%80%9A-%E5%88%B7%E8%AF%BE-%E8%87%AA%E5%8A%A8%E5%AE%8C%E6%88%90%E9%80%89%E6%8B%A9%E9%A2%98%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1) 刷课+自动完成选择题的工具箱（油猴脚本）
 - [刷课+自动完成选择题的工具箱](https://github.com/SudoSuBash/EWT-Killer-Box) 上述脚本开源地址  
-- [ewt360](https://github.com/landuoguo/ewt360) Python实现刷e网通假期课程进度
+- [ewt360](https://github.com/landuoguo/ewt360) Python实现刷e网通假期课程进度（停止维护）
 
 ## 后言
 
