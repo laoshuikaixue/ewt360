@@ -3,15 +3,27 @@
 ## 前言
 > 请不要滥用此仓库中的内容  
 > ewt有时可能会做更新，程序不保证一定能用  
-> 使用有门槛，不建议动手能力较差的同学使用
 
 ## 目前实现的功能
 
-- [x] 绕过点击检测
 - [x] 绕过会员检测
-- [ ] 解析试卷答案
+- [x] 绕过点击检测（无数据上报 慎用）
 
 ## 使用说明
+
+ - ## 绕过会员检测
+
+   ![图片](https://github.com/user-attachments/assets/da92d66a-a441-4d61-ac57-33b448fae0af)
+
+   此功能用于观看视频出现此提示的绕过 你需要安装油猴脚本插件 安装方法请自行上网搜索
+
+   随后添加这个脚本：https://greasyfork.org/zh-CN/scripts/500965-ewt360-permission-interceptor 即可绕过
+
+   原理：
+
+   ![图片](https://github.com/user-attachments/assets/008bc04e-5118-4633-99e6-b48f9be353b1)
+
+   拦截返回内容 修改这部分内容 对播放器进行欺骗
 
  - ## 绕过点击检测：
 
@@ -34,28 +46,16 @@
    ![图片](https://github.com/user-attachments/assets/3e33bf66-4f97-404d-a578-be8f88eb9002)
 
    即代表加载成功 随后关闭DevTools 即可播放视频
-   
- - ## 绕过会员检测
 
-   ![图片](https://github.com/user-attachments/assets/da92d66a-a441-4d61-ac57-33b448fae0af)
+   ### 注意：此操作会导致教师后台无点击通过率数据 谨慎使用
 
-   此功能用于观看视频出现此提示的绕过 你需要安装油猴脚本插件 安装方法请自行上网搜索
-
-   随后添加这个脚本：https://greasyfork.org/zh-CN/scripts/500965-ewt360-permission-interceptor 即可绕过
-
-   原理：
-
-   ![图片](https://github.com/user-attachments/assets/008bc04e-5118-4633-99e6-b48f9be353b1)
-
-   拦截返回内容 修改这部分内容 对播放器进行欺骗
-
-   #### 注意：如果你需要加载补丁 你需要每次打开页面的时候都打开DevTools进行一次刷新操作
+   #### 如果你需要加载补丁 你需要每次打开页面的时候都打开DevTools进行一次刷新操作
 
 ## 推荐的同类项目
 
-- [ewt360](https://github.com/landuoguo/ewt360) Python实现刷e网通假期课程进度
 - [刷课+自动完成选择题的工具箱](https://greasyfork.org/zh-CN/scripts/471375-ewt-ewt-e%E7%BD%91%E9%80%9A-%E5%88%B7%E8%AF%BE-%E8%87%AA%E5%8A%A8%E5%AE%8C%E6%88%90%E9%80%89%E6%8B%A9%E9%A2%98%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1) 刷课+自动完成选择题的工具箱（油猴脚本）
 - [刷课+自动完成选择题的工具箱](https://github.com/SudoSuBash/EWT-Killer-Box) 上述脚本开源地址  
+- [ewt360](https://github.com/landuoguo/ewt360) Python实现刷e网通假期课程进度
 
 ## 后言
 
