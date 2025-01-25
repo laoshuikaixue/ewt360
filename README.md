@@ -1,6 +1,6 @@
 # ewt360
 
-# 北京时间2024/07/26 晚上10点左右 ewt同时更新前后端 经确认 本仓库内容已失效
+# 北京时间2024/07/26 晚上10点左右 ewt同时更新前后端 经确认 本仓库内容已失效 当前仅供学习参考
 
 ## 前言
 > 请不要滥用此仓库中的内容  
@@ -49,14 +49,16 @@
 
    即代表加载成功 随后关闭DevTools 即可播放视频
 
+   其实就是删除了对于检测部分的代码 无技术含量
+
    ### 注意：此操作会导致教师后台无点击通过率数据 谨慎使用
 
    ### 如果你需要加载补丁 你需要每次打开页面的时候都打开DevTools进行一次刷新操作
 
 ## 推荐的同类项目
 
-- [刷课+自动完成选择题的工具箱](https://greasyfork.org/zh-CN/scripts/471375-ewt-ewt-e%E7%BD%91%E9%80%9A-%E5%88%B7%E8%AF%BE-%E8%87%AA%E5%8A%A8%E5%AE%8C%E6%88%90%E9%80%89%E6%8B%A9%E9%A2%98%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1) 刷课+自动完成选择题的工具箱（油猴脚本）
-- [刷课+自动完成选择题的工具箱](https://github.com/SudoSuBash/EWT-Killer-Box) 上述脚本开源地址  
+- [升学 E 网通 (EWT360) 试题答案获取](https://github.com/zhicheng233/GetEWTAnswers)
+- [刷课+自动完成选择题的工具箱](https://github.com/SudoSuBash/EWT-Killer-Box)（Public archive）
 - [ewt360](https://github.com/landuoguo/ewt360) Python实现刷e网通假期课程进度（停止维护）
 
 ## 后言
@@ -66,7 +68,3 @@
 **禁止滥用**本仓库的内容 若进行二开请严格遵守license 严禁各类**商业行为**
 
 若发现失效等情况 请在issues提出 并欢迎PR
-
-## Sponsors
-
-暂无:(
